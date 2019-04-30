@@ -1,0 +1,3 @@
+nth fibonacci number = pow((pow(5,0.5) + 1 ),n)
+                       ________________________
+                            pow(5,0.5)
